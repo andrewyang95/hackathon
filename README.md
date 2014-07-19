@@ -1,3 +1,3 @@
 hackathon
 =========
-First hackathon joined at Berkeley. It was an awesome experience. 
+First hackathon joined at Berkeley with Gunjan Baid, Aaron Fung, and Joong Hwa(J) Lee. It was an awesome experience. 
